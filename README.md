@@ -14,5 +14,5 @@ The notebook contains 4 sections:
 
 - TimesNet Prelim
 - TimesNet experiment adapted from [Time Series Library](https://github.com/thuml/Time-Series-Library/tree/main)
-- ARIMA model as a basline model (built on [pmdarima](https://github.com/alkaline-ml/pmdarima)
+- ARIMA model as a basline model (built on [pmdarima](https://github.com/alkaline-ml/pmdarima))
 - 5 Metrics to evaluate the performance of both models
